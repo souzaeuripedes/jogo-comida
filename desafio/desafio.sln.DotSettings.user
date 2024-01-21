@@ -1,0 +1,23 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=31b482b5_002Daf0b_002D4175_002Db9c1_002D8bf3cb05be51/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ExecutarWorkFlow_CallsIniciarJogo #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::DB6A2F51-71F8-4F6C-A931-171379F4E339::net6.0::DesafioWorkFlowTests.WorkFlowTests.ExecutarWorkFlow_CallsIniciarJogo&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=3a59d46d_002D2bdd_002D48a4_002Da49b_002Dacf623ee2f7c/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ExecutarWorkFlow_CallsIniciarJogo" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::DB6A2F51-71F8-4F6C-A931-171379F4E339::net6.0::DesafioWorkFlowTests.WorkFlowTests.ExecutarWorkFlow_CallsIniciarJogo&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=9a62e722_002Dde83_002D4884_002Dbeff_002D72c99b81869e/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="ExecutarWorkFlow_CallsIniciarJogo #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::DB6A2F51-71F8-4F6C-A931-171379F4E339::net6.0::PratosTests&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::DB6A2F51-71F8-4F6C-A931-171379F4E339::net6.0::DesafioWorkFlowTests.WorkFlowTests.ExecutarWorkFlow_CallsIniciarJogo&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::DB6A2F51-71F8-4F6C-A931-171379F4E339::net6.0::DesafioWorkFlowTests.WorkFlowTests.ExecutarWorkFlow_StopsWhenSairIsEntered&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=cac2c673_002D8442_002D46f1_002D9ff5_002D19ea393b15fd/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="WorkFlowTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::DB6A2F51-71F8-4F6C-A931-171379F4E339::net6.0::DesafioWorkFlowTests.WorkFlowTests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
